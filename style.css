@@ -1,0 +1,5 @@
+/* hilangkan semua padding */
+
+* {
+padding: 0px;
+}
