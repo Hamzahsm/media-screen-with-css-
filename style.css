@@ -3,3 +3,35 @@
 * {
 padding: 0px;
 }
+
+.container {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    row-gap: 20px;
+    justify-content: space-around;
+}
+
+.satu {
+    padding: 20px;
+    background-color: green;
+    box-shadow: 10px 10px 10px silver;
+}
+
+.dua {
+    padding: 20px;
+    background-color: greenyellow;
+    box-shadow: 10px 10px 10px silver;
+}
+
+.tiga {
+    padding: 20px;
+    background-color: green;
+    box-shadow: 10px 10px 10px silver;
+}
+
+.empat {
+    padding: 20px;
+    background-color: greenyellow;
+    box-shadow: 10px 10px 10px silver;
+}
