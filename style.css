@@ -35,3 +35,10 @@ padding: 0px;
     background-color: greenyellow;
     box-shadow: 10px 10px 10px silver;
 }
+
+/* setting your max-width depend on your want bellow */
+@media screen and (max-width: 600px) {
+    .container {
+        flex-direction: column;
+    }
+}
